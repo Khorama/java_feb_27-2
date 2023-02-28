@@ -17,6 +17,7 @@ public class Numbers {
 		//Retrieve the values from the array
 		System.out.println(numbers [0]);
 		System.out.println(numbers [1]);
+		///
 		
 	}
 
