@@ -14,5 +14,5 @@ public class Cities {
 		System.out.println(cities [3][2]);
 	}
 
-
+//today is Wednesday
 }
